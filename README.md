@@ -1,7 +1,7 @@
 <h2> Constraining the delay time distribution of Type-Ia supernovae in galaxy clusters via MCMC modeling </h2>
 
 <p align="justify">
-The delay time distribution (DTD) of Type-Ia supernovae (SNe Ia) is the rate of SNe Ia, as a function of time, that explode in a hypothetical stellar population of unit mass formed in a brief burst at time t=0. It is important for understanding chemical evolution, SN Ia progenitors, and SN Ia physics. This python program uses a Markov chain Monte Carlo (MCMC) Bayesian method and the spectral-population synthesis code <a href="http://www2.iap.fr/users/fioc/Pegase/Pegase.3/"  style="text-decoration:none" class="type1"><b>Pégase.3</b></a> to simultaneously fit the integrated galaxy-light photometry in several bands and the SN Ia numbers discovered in high-redshift clusters to constrain the DTD, allowing extended star formation histories. It has been used in the following article: 
+The delay time distribution (DTD) of Type-Ia supernovae (SNe Ia) is the rate of SNe Ia, as a function of time, that explode in a hypothetical stellar population of unit mass formed in a brief burst at time t=0. It is important for understanding chemical evolution, SN Ia progenitors, and SN Ia physics. This python program uses a Markov chain Monte Carlo (MCMC) Bayesian method and the spectral-population synthesis code <a href="http://www2.iap.fr/users/fioc/Pegase/Pegase.3/"  style="text-decoration:none" class="type1">Pégase.3</a> to simultaneously fit the integrated galaxy-light photometry in several bands and the SN Ia numbers discovered in high-redshift clusters to constrain the DTD, allowing extended star formation histories. It has been used in the following article: 
 </p>
 
 <p align="justify">
