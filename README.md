@@ -6,7 +6,7 @@ The delay time distribution (DTD) of Type-Ia supernovae (SNe Ia) is the rate of 
 
 <p align="justify">
 <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv201200793F/abstract"  style="text-decoration:none" class="type1"><b>The delay time distribution of Type-Ia supernovae in galaxy clusters: the impact of extended star-formation histories</b></a> 
-<a href="https://ui.adsabs.harvard.edu/link_gateway/2020arXiv201200793F/EPRINT_PDF" style="text-decoration:none" class="type1"> [PDF] </a>, by Jonathan Freundlich & Dan Maoz
+<a href="https://ui.adsabs.harvard.edu/link_gateway/2020arXiv201200793F/EPRINT_PDF" style="text-decoration:none" class="type1">[PDF]</a> by Jonathan Freundlich & Dan Maoz
 </p>
 
 <p align="justify">
