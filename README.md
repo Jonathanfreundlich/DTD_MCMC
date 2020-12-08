@@ -14,5 +14,5 @@ The delay time distribution (DTD) of Type-Ia supernovae (SNe Ia) is the rate of 
 </p>
 
 <p align="justify">
-  The different steps of the calculations can be seen in <a href="./DTD_MCMC.ipynb"  style="text-decoration:none" class="type1" color="red">DTD_MCMC.ipynb</a>. 
+  The different steps of the calculations can be seen in <a href="./DTD_MCMC.ipynb"  style="color:#FF0000;" class="type1" color="red"><b>DTD_MCMC.ipynb</b></a>. 
 </p>
