@@ -513,7 +513,8 @@ def hist2d(x, y, bins=20, range=None, weights=None, levels=None, smooth=None,
 
     # Choose the default "sigma" contour levels.
     if levels is None:
-        levels = 1.0 - np.exp(-0.5 * np.arange(0.5, 2.1, 0.5) ** 2)
+        #levels = 1.0 - np.exp(-0.5 * np.arange(0.5, 2.1, 0.5) ** 2)
+        levels=erf(np.arange(0.5, 2.1, 0.5)/np.sqrt(2))
 
     # This is the color map for the density plot, over-plotted to indicate the
     # density of the points near the center.
